@@ -9,8 +9,8 @@ function theBeatlesPlay(arr1, arr2) {
 
 function johnLennonFacts(arr) {
   var newArr = [];
+  var i = 0;
   while (newArr.length < arr.length) {
-    var i = 0;
     var p = `${arr[i]}!!!`;
     newArr.push(p);
     i++;
