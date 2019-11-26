@@ -20,7 +20,7 @@ function johnLennonFacts(arr) {
 
 function iLoveTheBeatles(num) {
   var arr = [];
-  var newNum = 15 - num; 
+  var newNum = 15 - num;
   do {
     arr.push('I love the Beatles!');
   } while (arr.length < newNum)
