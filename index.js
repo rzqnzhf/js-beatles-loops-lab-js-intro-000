@@ -13,6 +13,7 @@ function johnLennonFacts(arr) {
     var i = 0;
     var p = `${arr[i]}!!!`;
     newArr.push(p)
+    i++;
   }
   return newArr;
 }
