@@ -7,7 +7,7 @@ function theBeatlesPlay(arr1, arr2) {
   return b;
 }
 
-function johnLennonFacts(arr) { 
+function johnLennonFacts(arr) {
   while (arr < arr.length - 1) {
     var i = 0;
     `${arr[i]}!!!`
